@@ -33,9 +33,7 @@ header {
         height: 5%;
     } 
 }
-.logo {
-    font-size: 22px;
-}
+
 .nav-links {
     list-style: none;
     display: flex;
