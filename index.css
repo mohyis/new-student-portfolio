@@ -53,3 +53,19 @@
     overflow: hidden;
     
 }
+footer{  
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 25.90px;
+    margin-top: 280.50px;
+    background-color:aqua;
+     width: 100%;
+}
+.links{
+    list-style: none;
+    cursor: pointer;
+    padding: 0%;
+}
+
+    
