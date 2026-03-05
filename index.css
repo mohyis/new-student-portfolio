@@ -9,9 +9,9 @@ body {
     background-color: lightgray
 }
 .page-wrapper {
-    width: 95%;
-    max-width: 1200px;
-    margin: 20px auto;
+    width: 99%;
+    /* max-width: 1200px; */
+    margin: 10px auto;
 }
 header {
     background-color: white;
