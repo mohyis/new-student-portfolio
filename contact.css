@@ -8,6 +8,8 @@ body {
 }
 .contact {
   background-color: white;
+  width: 99%;
+  margin: 10px auto;
   margin-bottom: 1px;
   display: flex;
   text-align: center;
