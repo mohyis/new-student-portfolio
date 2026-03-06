@@ -116,3 +116,24 @@ button {
 button:hover {
     background-color: blue;
 }
+footer{
+     background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    font-size: 21.4px
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+li:hover{
+     cursor: pointer;
+     color: white;
+     transition: 0.3s;
+}
+.Email{
+    text-decoration: none;
+    color: white;
+}
+
