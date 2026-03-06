@@ -74,3 +74,39 @@ header {
     /* height: 5%; */
   }
 }
+footer{
+     background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 110px;
+    font-size: 21.4px
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+li:hover{
+     cursor: pointer;
+     color: red;
+     transition: 0.3s;
+}
+.Email{
+    text-decoration: none;
+    color: red;
+}
+.contactUs{
+  color: red;
+}
+.website{
+  color: grey;
+}
+.Home{
+  color: grey;
+}
+.About{
+  color: grey;
+}
+.contactUs{
+  color: grey;
+}
+
